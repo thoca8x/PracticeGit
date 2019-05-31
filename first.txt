@@ -1,1 +1,1 @@
-hello from nhc
+hello from nhc after manually merging
