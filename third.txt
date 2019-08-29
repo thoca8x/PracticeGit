@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 hello from master
+=======
+hello from third
+>>>>>>> feature/login
