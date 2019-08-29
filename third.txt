@@ -1,4 +1,8 @@
 hello
 hello from master
 bb in master
-NEW
+
+def new():
+    pass
+
+def new2():
