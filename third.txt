@@ -5,3 +5,5 @@ bb in master
 
 def new():
     pass
+
+def new2():
