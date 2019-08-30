@@ -6,3 +6,8 @@ def new():
     pass
 
 def new2():
+    pass
+
+def new3():
+    pass
+
